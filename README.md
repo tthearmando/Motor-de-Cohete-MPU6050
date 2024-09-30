@@ -17,11 +17,11 @@ El proyecto incluye los siguientes elementos:
 
 #### Diseño del Motor
 
-![Motor de Estabilización](Motor%20del%20cohete%20DISEÑO%203D/images/Screenshot_2020-12-24_at_19.52.11.png)
+<img src="Motor%20del%20cohete%20DISEÑO%203D/images/Screenshot_2020-12-24_at_19.52.11.png" alt="Motor de Estabilización" width="400" />
 
 #### Diseño del Cohete
 
-![Cohete Impreso en 3D](Diseño%203D%20del%20Cohete/images/20180808_232806.jpg)
+<img src="Diseño%203D%20del%20Cohete/images/20180808_232806.jpg" alt="Cohete Impreso en 3D" width="400" />
 
 
 # Archivos incluidos
