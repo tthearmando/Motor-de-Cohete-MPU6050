@@ -11,6 +11,18 @@ El proyecto incluye los siguientes elementos:
 3. Diseños 3D : Los modelos 3D del motor y del cohete también se proporcionan en el repositorio para que puedas replicar el diseño físico.
    
 5. Código fuente : El código cargado en el Arduino es responsable de interpretar los datos del giroscopio y controlar los servomotores.
+   
+
+### Visualización del Motor y Cohete
+
+#### Diseño del Motor
+
+![Motor de Estabilización](/Users/armando/Desktop/Motor%20del%20cohete%20DISEÑO%203D/images/Screenshot_2020-12-24_at_19.52.11.png)
+
+#### Diseño del Cohete
+
+![Cohete Impreso en 3D](/Users/armando/Desktop/Diseño%203D%20del%20Cohete/images/20180808_232806.jpg)
+
 
 # Archivos incluidos
 ·Esquemático del circuito :esquematico .png
